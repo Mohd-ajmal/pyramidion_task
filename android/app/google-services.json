@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284904887127",
+    "project_id": "songs-c1bbd",
+    "storage_bucket": "songs-c1bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284904887127:android:2ad9c9fe8667934c31a412",
+        "android_client_info": {
+          "package_name": "com.task.pyramidion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284904887127-qi639kcatad7hrb36dnki0etq2eg6t7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk6mGYbZE9_p48wHyh4vx3axB5iCvkRcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284904887127-qi639kcatad7hrb36dnki0etq2eg6t7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
